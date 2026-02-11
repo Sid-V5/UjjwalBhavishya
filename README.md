@@ -21,3 +21,20 @@ This is a modern, AI-powered web application designed to help citizens discover,
 - **AI & Machine Learning:** Google Gemini for the chatbot, recommendations.
 - **Authentication:** JWT (JSON Web Tokens) with Passport.js for secure authentication.
 - **Real-time Communication:** WebSockets for instant notifications.
+
+## Getting Started
+
+```bash
+# Install dependencies
+npm install
+
+# Set up environment variables
+cp .env.example .env
+
+# Run the development server
+npm run dev
+```
+
+## License
+
+MIT
